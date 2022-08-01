@@ -15,4 +15,4 @@ Investment to waves and ice cream based on the analysis on temperature data for 
 
 
 ## Resources and softwares
-hawaii.sqlite databaee and Python, Pandas functions and methods, and SQLAlchemy
+hawaii.sqlite database and Python, Pandas functions and methods, and SQLAlchemy
