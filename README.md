@@ -8,7 +8,7 @@ Investment to waves and ice cream based on the analysis on temperature data for 
 #### Two technical analysis deliverables and a written report 
       1: Determine the Summary Statistics for June
       2: Determine the Summary Statistics for December
-      3: A written report for the statistical analysis (README.md)
+      3: A written report for the statistical analysis
      
 ## Results 
 
