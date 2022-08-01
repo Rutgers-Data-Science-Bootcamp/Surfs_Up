@@ -28,4 +28,5 @@ Investment to waves and ice cream based on the analysis on temperature data for 
          Meaning that in July there is more days with higher temperature which beneficial for Surfs shop and ice cream shop.
 
 ## Resources and softwares
-hawaii.sqlite database and Python, Pandas functions and methods, and SQLAlchemy
+Database resources: hawaii.sqlite
+Softwares: Python and SQLAlchemy
