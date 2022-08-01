@@ -26,6 +26,11 @@ Investment to waves and ice cream based on the analysis on temperature data for 
       3: Maximum temperature in July is only 2F higher than December, 
          but when we look at the distribution of temp in July is belongs to normal distribution. 
          Meaning that in July there is more days with higher temperature which beneficial for Surfs shop and ice cream shop.
+         
+## Summary
+I would confidently summarize that June gives good business to Surf and Ice cream shop than December in Oahu, Hawaii. However, based on the summary    statistics count of measuremnet, in December is less than June about 180 times, in order to draw better conclusion about the December, i would do two more deeper analysis: 
+#####      1: I would like to delve into the summary statistics of temperatures recorded by station for June and December to find thecomparable statition counts and do the analysis;
+#####      2: I would like to review other important variables that are correlated with optimal beach and surfing weathe such as precipitation; 
 
 ## Resources and softwares
 Database resources: hawaii.sqlite
